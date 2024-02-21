@@ -4,7 +4,7 @@
 
 
 
-## Project 1 : Explore US Bikeshare Data
+## Project 1 : Investigate a Relational Database
 
 ### Overview
 
@@ -17,7 +17,7 @@ For the presentation component, the student had to create four slides, and each 
 
 A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission.
 
-## Project 2
+## Project 2 : Explore US Bikeshare Data
 
 ### Overview
 
