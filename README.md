@@ -1,9 +1,8 @@
 # Created by omar alshamlani
 
-# Udacity-programming-for-Data-Science-using-Python-Nanodegree
+#Udacity-programming-for-Data-Science-using-Python-Nanodegree
 
 
-# This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
 ## Project 1
 
